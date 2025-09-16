@@ -39,4 +39,4 @@ I specialize in building automation scripts, smart workflows, and AI-powered sol
 
 ## 🌍 Connect
 - Fiverr: [My Fiverr Profile](https://www.fiverr.com/xdisslike)  
-- GitHub: [github.com/xdisslike](https://github.com/fued1011-2)  
+- GitHub: [github.com/fued1011-2](https://github.com/fued1011-2)  
