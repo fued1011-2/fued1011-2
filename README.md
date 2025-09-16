@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Edgar  
 
-<!--
-**fued1011-2/fued1011-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Automation | Web Scraping | API & AI Integrations  
 
-Here are some ideas to get you started:
+I specialize in building automation scripts, smart workflows, and AI-powered solutions that save time and reduce manual work.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Skills
+- **Python** (Pandas, Requests, BeautifulSoup, FastAPI)  
+- **Automation** (CSV/Excel, workflows, task automation)  
+- **Web Scraping** (BeautifulSoup, Selenium, APIs)  
+- **AI Integrations** (OpenAI, Hugging Face, custom AI bots)  
+- **APIs** (Google, Slack, Notion, custom REST APIs)  
+
+---
+
+## 📂 Featured Projects
+🔹 [Fiverr Demo Projects](https://github.com/xdisslike/fiverr-demo-projects) – Automation, scraping & AI demos  
+🔹 Email Bot 🤖📨 – AI-powered Gmail assistant with Hugging Face & Gmail API  
+🔹 More coming soon...  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdisslike&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdisslike&layout=compact&theme=tokyonight)  
+
+---
+
+## 🛠️ Badges
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Automation](https://img.shields.io/badge/Automation-00ADD8?style=for-the-badge&logo=zapier&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge&logo=selenium&logoColor=white)  
+![AI](https://img.shields.io/badge/AI-FF4088?style=for-the-badge&logo=openai&logoColor=white)  
+![APIs](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)  
+
+---
+
+## 🌍 Connect
+- Fiverr: [My Fiverr Profile](https://www.fiverr.com/xdisslike)  
+- GitHub: [github.com/xdisslike](https://github.com/xdisslike)  
