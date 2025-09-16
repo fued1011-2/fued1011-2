@@ -16,15 +16,15 @@ I specialize in building automation scripts, smart workflows, and AI-powered sol
 ---
 
 ## 📂 Featured Projects
-🔹 [Fiverr Demo Projects](https://github.com/xdisslike/fiverr-demo-projects) – Automation, scraping & AI demos  
+🔹 [Fiverr Demo Projects](https://github.com/fued1011-2/fiverr-demo-projects) – Automation, scraping & AI demos  
 🔹 Email Bot 🤖📨 – AI-powered Gmail assistant with Hugging Face & Gmail API  
 🔹 More coming soon...  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdisslike&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xdisslike&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fued1011-2&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fued1011-2&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -39,4 +39,4 @@ I specialize in building automation scripts, smart workflows, and AI-powered sol
 
 ## 🌍 Connect
 - Fiverr: [My Fiverr Profile](https://www.fiverr.com/xdisslike)  
-- GitHub: [github.com/xdisslike](https://github.com/xdisslike)  
+- GitHub: [github.com/xdisslike](https://github.com/fued1011-2)  
